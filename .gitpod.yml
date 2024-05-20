@@ -1,5 +1,5 @@
-image: 
-  file: .gitpod.Dockerfile
+image:  ghcr.io/r-devel/r-dev-env:sha-2fda59f
+  #file: .gitpod.Dockerfile
 
 vscode:
    extensions:
